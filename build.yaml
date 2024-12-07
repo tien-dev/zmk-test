@@ -23,3 +23,5 @@ include:
     shield: soflex_left
   - board: seeeduino_xiao_ble
     shield: soflex_right
+  - board: seeeduino_xiao_ble
+    shield: settings_reset
