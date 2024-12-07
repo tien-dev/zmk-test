@@ -19,9 +19,9 @@
 #
 ---
 include:
-  - board: seeed_xiao
+  - board: seeeduino_xiao_ble
     shield: soflex_left
-  - board: seeed_xiao
+  - board: seeeduino_xiao_ble
     shield: soflex_right
-  - board: seeed_xiao
+  - board: seeeduino_xiao_ble
     shield: settings_reset
