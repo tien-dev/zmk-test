@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MIT
 
 config SHIELD_SOFLEX_LEFT
-    def_bool $(shields_list_contains,soflex_left)
+    def_bool $(shields_list_contains, soflex_left)
 
 config SHIELD_SOFLEX_RIGHT
-    def_bool $(shields_list_contains,soflex_right)
+    def_bool $(shields_list_contains, soflex_right)

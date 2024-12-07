@@ -19,7 +19,7 @@
 #
 ---
 include:
-  - board: seeeduino_xiao_ble
+  - board: seeed_xiao
     shield: soflex_left
-  - board: seeeduino_xiao_ble
+  - board: seeed_xiao
     shield: soflex_right

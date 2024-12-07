@@ -3,8 +3,8 @@ id: soflex
 name: SofleX
 type: shield
 url: https://github.com/josefadamcik/SofleKeyboard
-# requires: [nice_nano_v2]
-requires: [seeeduino_xiao_ble]
+requires: [seeed_xiao]
+# requires: [seeeduino_xiao_ble]
 features:
   - keys
   # - display

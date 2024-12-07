@@ -9,8 +9,6 @@ config ZMK_SPLIT_ROLE_CENTRAL
 endif
 
 if SHIELD_SOFLEX_LEFT || SHIELD_SOFLEX_RIGHT
-
 config ZMK_SPLIT
     default y
-
 endif
