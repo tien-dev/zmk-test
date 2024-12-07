@@ -239,8 +239,8 @@
 /******* BASE LAYER -- MAC ********/
         MAC_COLEMAK_DH_0 {
             bindings = < 
-&kp GRAVE   &kp N1      &kp N2      &kp N3      &kp N4      &kp N5                  &kp N6      &kp N7      &kp N8      &kp N9          &kp N0          &MAC_DLINE
-&kp ESC     &kp Q       &kp W       &kp F       &kp P       &kp B                   &kp J       &kp L       &kp U       &kp Y           &kp SEMI        &kp BSPC
+&kp ESC     &kp N1      &kp N2      &kp N3      &kp N4      &kp N5                  &kp N6      &kp N7      &kp N8      &kp N9          &kp N0          &MAC_DLINE
+&kp GRAVE   &kp Q       &kp W       &kp F       &kp P       &kp B                   &kp J       &kp L       &kp U       &kp Y           &kp SEMI        &kp BSPC
 &kp TAB     &kp A       &kp R       &kp S       &kp T       &kp G                   &kp M       &kp N       &kp E       &kp I           &kp O           &kp SQT
 &kp LSHFT   &kp Z       &kp X       &kp C       &kp D       &kp V                   &kp K       &kp H       &kp COMMA   &kp DOT         &kp FSLH        &kp RSHFT
             &kp LCTRL   &kp LALT    &kp LGUI    &mo 3       &kp SPACE               &kp RET     &mo 5       &kp CLCK    &kp C_VOL_DN    &kp C_VOL_UP
@@ -251,8 +251,8 @@
 /******* BASE LAYER -- WIN ********/
         WIN_COLEMAK_DH_1 {
             bindings = <
-&kp GRAVE   &kp N1      &kp N2      &kp N3      &kp N4      &kp N5                  &kp N6      &kp N7      &kp N8      &kp N9          &kp N0          &WIN_DLINE
-&kp ESC     &kp Q       &kp W       &kp F       &kp P       &kp B                   &kp J       &kp L       &kp U       &kp Y           &kp SEMI        &kp BSPC
+&kp ESC     &kp N1      &kp N2      &kp N3      &kp N4      &kp N5                  &kp N6      &kp N7      &kp N8      &kp N9          &kp N0          &WIN_DLINE
+&kp GRAVE   &kp Q       &kp W       &kp F       &kp P       &kp B                   &kp J       &kp L       &kp U       &kp Y           &kp SEMI        &kp BSPC
 &kp TAB     &kp A       &kp R       &kp S       &kp T       &kp G                   &kp M       &kp N       &kp E       &kp I           &kp O           &kp SQT
 &kp LSHFT   &kp Z       &kp X       &kp C       &kp D       &kp V                   &kp K       &kp H       &kp COMMA   &kp DOT         &kp FSLH        &kp RSHFT
             &kp LGUI    &kp LALT    &kp LCTRL   &mo 4       &kp SPACE               &kp RET     &mo 5       &kp CLCK    &kp C_VOL_DN    &kp C_VOL_UP
@@ -260,8 +260,8 @@
         };
         WIN_QWERTY_2 {
             bindings = <
-&kp GRAVE   &kp N1      &kp N2      &kp N3      &kp N4      &kp N5                  &kp N6      &kp N7      &kp N8      &kp N9          &kp N0          &WIN_DLINE
-&kp ESC     &kp Q       &kp W       &kp E       &kp R       &kp T                   &kp Y       &kp U       &kp I       &kp O           &kp P           &kp BSPC
+&kp ESC     &kp N1      &kp N2      &kp N3      &kp N4      &kp N5                  &kp N6      &kp N7      &kp N8      &kp N9          &kp N0          &WIN_DLINE
+&kp GRAVE   &kp Q       &kp W       &kp E       &kp R       &kp T                   &kp Y       &kp U       &kp I       &kp O           &kp P           &kp BSPC
 &kp TAB     &kp A       &kp S       &kp D       &kp F       &kp G                   &kp H       &kp J       &kp K       &kp L           &kp SEMI        &kp SQT
 &kp LSHFT   &kp Z       &kp X       &kp C       &kp V       &kp B                   &kp N       &kp M       &kp COMMA   &kp DOT         &kp FSLH        &kp RSHFT
             &kp LGUI    &kp LALT    &kp LCTRL   &mo 4       &kp SPACE               &kp RET     &mo 5       &kp CLCK    &kp C_VOL_DN    &kp C_VOL_UP
