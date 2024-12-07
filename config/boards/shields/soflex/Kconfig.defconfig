@@ -1,0 +1,16 @@
+# Copyright (c) 2020 Ryan Cross
+# SPDX-License-Identifier: MIT
+
+if SHIELD_SOFLEX_LEFT
+config ZMK_KEYBOARD_NAME
+    default "SofleX"
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+endif
+
+if SHIELD_SOFLEX_LEFT || SHIELD_SOFLEX_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif
