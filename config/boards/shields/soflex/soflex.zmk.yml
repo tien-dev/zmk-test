@@ -3,7 +3,7 @@ id: soflex
 name: SofleX
 type: shield
 url: https://github.com/josefadamcik/SofleKeyboard
-requires: [seeeduino_xiao]
+requires: [seeeduino_xiao_ble]
 features:
   - keys
 siblings:
